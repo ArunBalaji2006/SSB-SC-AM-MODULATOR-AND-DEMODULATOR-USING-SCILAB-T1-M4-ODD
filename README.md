@@ -60,22 +60,22 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 ---
 
 ## TABULATION
+<img width="738" height="1600" alt="EX 3 T" src="https://github.com/user-attachments/assets/2d2aec49-7b34-49be-83c6-d5798b15e4e7" />
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V) | FREQUENCY (Hz) |
-| ------- | ---------------------- | ------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**   | **Practical:** |
-|         |                        |               | **Theory:**    |
-|         |                        |               | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical** |                |
-|         |                        | **Emax =**    |                |
-|         |                        | **Emin =**    |                |
-| **4**   | **Demodulated Signal** | **Practical** |                |
 
----
 
-## MODEL GRAPH
+## CALCULATION:
+
+<img width="738" height="1600" alt="Ex3 C" src="https://github.com/user-attachments/assets/65918386-c547-47f8-9b8a-3a4b2ce01ed3" />
+
+
+## GRAPH:
+
+<img width="738" height="1600" alt="ex 3 O" src="https://github.com/user-attachments/assets/9bca1d94-23cf-4114-b355-4f94bf9e9117" />
+
+
+##RESULT: Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
+
+
 
 

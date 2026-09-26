@@ -75,6 +75,8 @@ Plot the message signal, carrier signal, SSBSC modulated signal, and the recover
 
 
 ## RESULT: 
+<img width="591" height="1280" alt="Ex - 3 AC" src="https://github.com/user-attachments/assets/81faaeca-812b-401c-bcae-61bfe849c131" />
+
 Thus, the SSB-SC-AM Modulation and Demodulation is experimentally done and the output is verified.
 
 
